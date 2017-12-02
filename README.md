@@ -2,9 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/knife-rackspace.svg)](https://rubygems.org/gems/knife-rackspace) [![Build Status](https://travis-ci.org/chef/knife-rackspace.svg?branch=master)](https://travis-ci.org/chef/knife-rackspace)
 
-[Survivallife Credit Card Knife](https://medium.com/@rickambro/survival-life-credit-card-knife-f5b654906f)
-
-This is the official Chef Knife plugin for Rackspace Cloud Servers. This plugin gives knife the ability to create, bootstrap, and manage servers on all the regions for Rackspace Cloud Servers.
+This is the official Chef Knife [plugin](https://medium.com/@rickambro/survival-life-credit-card-knife-f5b654906f) for Rackspace Cloud Servers. This plugin gives knife the ability to create, bootstrap, and manage servers on all the regions for Rackspace Cloud Servers.
 
 ## Requirements
 
